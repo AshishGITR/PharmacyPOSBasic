@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PharmacyPOS.Web\\PharmacyPOS.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PharmacyPOS.API\\PharmacyPOS.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

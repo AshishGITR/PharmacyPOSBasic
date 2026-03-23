@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.api\\pharmacypos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|solutionrelative:pharmacypos.api\\pharmacypos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C7BBF2-0F66-44FF-8C92-4B67AF0F6913}|PharmacyPOS.Web\\PharmacyPOS.Web.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5C7BBF2-0F66-44FF-8C92-4B67AF0F6913}|PharmacyPOS.Web\\PharmacyPOS.Web.csproj|solutionrelative:pharmacypos.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|solutionrelative:pharmacypos.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.api\\dtomodels\\saleitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|solutionrelative:pharmacypos.api\\dtomodels\\saleitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.api\\dtomodels\\createsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|solutionrelative:pharmacypos.api\\dtomodels\\createsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|solutionrelative:pharmacypos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|solutionrelative:pharmacypos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.core\\pharmacypos.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|solutionrelative:pharmacypos.core\\pharmacypos.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.core\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|solutionrelative:pharmacypos.core\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.api\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D170303A-B57E-44A9-BCFF-B08A0987D665}|PharmacyPOS.API\\PharmacyPOS.API.csproj|solutionrelative:pharmacypos.api\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.core\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|solutionrelative:pharmacypos.core\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.core\\medicinebatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|solutionrelative:pharmacypos.core\\medicinebatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.core\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|solutionrelative:pharmacypos.core\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|d:\\projects\\pharmacypos\\pharmacypos\\pharmacypos.core\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580671A5-4A6E-420E-AFC9-2CF221A0136B}|PharmacyPOS.Core\\PharmacyPOS.Core.csproj|solutionrelative:pharmacypos.core\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleItemDto.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\DTOModels\\SaleItemDto.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.API\\DTOModels\\SaleItemDto.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\DTOModels\\SaleItemDto.cs",
+              "RelativeToolTip": "PharmacyPOS.API\\DTOModels\\SaleItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:26:26.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PharmacyPOS.API.csproj",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\PharmacyPOS.API.csproj",
+              "RelativeDocumentMoniker": "PharmacyPOS.API\\PharmacyPOS.API.csproj",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\PharmacyPOS.API.csproj",
+              "RelativeToolTip": "PharmacyPOS.API\\PharmacyPOS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T09:06:30.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PharmacyPOS.Core.csproj",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\PharmacyPOS.Core.csproj",
+              "RelativeDocumentMoniker": "PharmacyPOS.Core\\PharmacyPOS.Core.csproj",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\PharmacyPOS.Core.csproj",
+              "RelativeToolTip": "PharmacyPOS.Core\\PharmacyPOS.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T10:17:46.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateSaleRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\DTOModels\\CreateSaleRequest.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.API\\DTOModels\\CreateSaleRequest.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\DTOModels\\CreateSaleRequest.cs",
+              "RelativeToolTip": "PharmacyPOS.API\\DTOModels\\CreateSaleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:25:40.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.API\\Controllers\\SalesController.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "PharmacyPOS.API\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:08:50.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PharmacyDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\PharmacyDbContext.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.Core\\PharmacyDbContext.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\PharmacyDbContext.cs",
+              "RelativeToolTip": "PharmacyPOS.Core\\PharmacyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:53:19.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\SaleItem.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.Core\\SaleItem.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\SaleItem.cs",
+              "RelativeToolTip": "PharmacyPOS.Core\\SaleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:52:31.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "PharmacyPOS.Web\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "PharmacyPOS.Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:58:29.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\Program.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.API\\Program.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\Program.cs",
+              "RelativeToolTip": "PharmacyPOS.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:38:46.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PharmacyPOS.API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\appsettings.json",
+              "RelativeToolTip": "PharmacyPOS.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-20T09:31:22.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\Sale.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.Core\\Sale.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\Sale.cs",
+              "RelativeToolTip": "PharmacyPOS.Core\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:51:58.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedicineBatch.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\MedicineBatch.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.Core\\MedicineBatch.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\MedicineBatch.cs",
+              "RelativeToolTip": "PharmacyPOS.Core\\MedicineBatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:50:57.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\Medicine.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.Core\\Medicine.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.Core\\Medicine.cs",
+              "RelativeToolTip": "PharmacyPOS.Core\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:43:36.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "PharmacyPOS.API\\Controllers\\MedicinesController.cs",
+              "ToolTip": "D:\\Projects\\PharmacyPOS\\PharmacyPOS\\PharmacyPOS.API\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "PharmacyPOS.API\\Controllers\\MedicinesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:40:49.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\bin\Debug\net8.0\PharmacyPOS.Core.deps.json
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\bin\Debug\net8.0\PharmacyPOS.Core.runtimeconfig.json
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\bin\Debug\net8.0\PharmacyPOS.Core.dll
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\bin\Debug\net8.0\PharmacyPOS.Core.pdb
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\PharmacyPOS.Core.csproj.AssemblyReference.cache
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\PharmacyPOS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\PharmacyPOS.Core.AssemblyInfoInputs.cache
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\PharmacyPOS.Core.AssemblyInfo.cs
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\PharmacyPOS.Core.csproj.CoreCompileInputs.cache
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\PharmacyPOS.Core.dll
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\refint\PharmacyPOS.Core.dll
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\PharmacyPOS.Core.pdb
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\PharmacyPOS.Core.genruntimeconfig.cache
+D:\Projects\PharmacyPOS\PharmacyPOS\PharmacyPOS.Core\obj\Debug\net8.0\ref\PharmacyPOS.Core.dll

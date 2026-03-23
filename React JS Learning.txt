@@ -1,0 +1,10 @@
+React JS Learning
+1. Install node and npm
+2. Install React JS - command is 
+    npm install vite@latest
+3. Choose required framework like 'React'
+4. Choose required variant like 'typescript'
+5. To run the app - 
+    npm run dev
+6. To call an API, need to add Axios Package
+    npm install axios
