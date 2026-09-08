@@ -1,4 +1,4 @@
-import React from "react";
+//import React from "react";
 import type { Batch } from "../models/model";
 
 interface Props {
@@ -6,13 +6,14 @@ interface Props {
   onSelect: (batch: Batch) => void;
 }
 
-const BatchSelector: React.FC<Props> = ({ batches, onSelect }) => {
+//const BatchSelector: React.FC<Props> = ({ batches, onSelect }) => {
+const BatchSelector = ({batches,onSelect}:Props)=> {
   return (
     <div>
-      <h3>Batches</h3>
+      <h5 style={{textAlign : "left"}}>Batches</h5>
       {batches.map((b) => (
         <div key={b.id}>
-          <button onClick={() => onSelect(b)}>
+          <button className="btn btn-Primary" onClick={() => onSelect(b)}>
             {b.batchNumber} | ₹{b.price} | Exp: {b.expiryDate}
           </button>
         </div>
